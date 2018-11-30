@@ -1,0 +1,15 @@
+Oberes Objekt: Lampe
+Animation: Springen
+Mittelobjekt:   Portal Cube?
+Floor:
+
+An/Aus licht
+Eingebautes Radio?
+
+
+
+
+
+steine werfen
+gitarren werfen?
+axt werfen?
