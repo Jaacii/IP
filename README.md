@@ -1,2 +1,0 @@
-# IP
-University Project
